@@ -1,1 +1,1 @@
-ts-project-template 
+node-ts-webpack-project-template
